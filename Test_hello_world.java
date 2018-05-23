@@ -6,6 +6,7 @@
  *
  *  % java HelloWorld
  *  Hello, World
+ * HIIIII
  *
  *  These 17 lines of text are comments. They are not part of the program;
  *  they serve to remind us about its properties. The first two lines tell
